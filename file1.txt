@@ -1,2 +1,3 @@
 file 1
-thay doi file1 newfolder
+thay doi may2
+
